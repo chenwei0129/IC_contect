@@ -1,3 +1,3 @@
-# IC_contect
+# IC contect
 
 ## B and E
